@@ -1,0 +1,17 @@
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\AzureUpload.exe.config
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\AzureUpload.exe
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\AzureUpload.pdb
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\obj\Debug\AzureDownloadFile.csprojAssemblyReference.cache
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\obj\Debug\AzureDownloadFile.csproj.CoreCompileInputs.cache
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\obj\Debug\AzureDownloadFile.csproj.CopyComplete
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\obj\Debug\AzureUpload.exe
+C:\Users\hari.dileepkumar\Source\Repos\AzureUpload\AzureUpload\obj\Debug\AzureUpload.pdb
